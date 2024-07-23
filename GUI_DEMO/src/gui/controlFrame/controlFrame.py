@@ -1,9 +1,9 @@
 import tkinter as tk
 from tkinter import ttk
 
-from GUI_DEMO.src.utils.temperatureConverter import TemperatureConverter
-from GUI_DEMO.src.gui.converterFrame.category2ConverterFrame import Category2ConverterFrame
-from GUI_DEMO.src.gui.converterFrame.category1ConverterFrame import Category1ConverterFrame
+from src.utils.temperatureConverter import TemperatureConverter
+from src.gui.converterFrame.category2ConverterFrame import Category2ConverterFrame
+from src.gui.converterFrame.category1ConverterFrame import Category1ConverterFrame
 
 
 class ControlFrame(ttk.LabelFrame):
