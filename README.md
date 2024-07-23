@@ -13,6 +13,21 @@
         frames对应的converterFrame
     3、实现converterFrame功能
 
+#toolsBar_Top_Left_Right_Layout
+
+###界面布局
+
+     |       top:  工具栏  |
+     |LEFT    |    RIGHT |
+     |           |               |
+
+### 目录
+	+---src
+	|   +---assets     #  资源
+	|   |   \---magic_mouse
+	|   +---gui        # 界面
+	|   +---utils       # 功能
+
 ##界面
 ### GUI_DEMO
 ![image](https://github.com/tkUIDemo/blob/master/img/chiocesNote.png)
