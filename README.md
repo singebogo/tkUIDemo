@@ -30,6 +30,6 @@
 
 ##界面
 ### GUI_DEMO
-![image](https://github.com/tkUIDemo/blob/master/img/chiocesNote.png)
+![image](https://github.com/singebogo/tkUIDemo/blob/master/img/chiocesNote.png)
 ### toolsBar_Top_Left_Right_Layout
-![image](https://github.com/tkUIDemo/blob/master/img/top_left_right.png)
+![image](https://github.com/singebogo/tkUIDemo/blob/master/img/top_left_right.png)
